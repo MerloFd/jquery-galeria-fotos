@@ -58,7 +58,7 @@ ul li{
     max-width: 25%;
     list-style: none;
     position: relative;
-    max-height: 220px;
+    max-height: 210px;
     overflow-y: hidden;
 }
 
@@ -84,4 +84,14 @@ ul li img{
 
 ul li:hover .overlay_img_link{
     opacity: 1;
+}
+
+.container-footer{
+    position: relative;
+    background-color: #5f27cd;
+    border-top: 16px solid #340a8a;
+
+    padding-top: 46px;
+    padding-left: 100%;
+    margin-top: 20%;
 }
