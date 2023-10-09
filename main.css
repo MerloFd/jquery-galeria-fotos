@@ -85,12 +85,3 @@ ul li img{
 ul li:hover .overlay_img_link{
     opacity: 1;
 }
-
-footer{
-    position: absolute;
-    background-color: #5f27cd;
-    border-top: 16px solid #340a8a;
-    padding-top: 46px;
-    padding-left: 100%;
-    bottom: 0;
-}
